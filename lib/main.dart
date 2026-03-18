@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_awsome_app/car_cal.dart';
+import 'package:flutter_sau_car_installmemt_app/car_cal.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
